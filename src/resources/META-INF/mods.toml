@@ -1,0 +1,19 @@
+modLoader="javafml" #mandatory
+
+loaderVersion="[26,29)" #mandatory. 26 for 1.14.2, 27 for 1.14.3
+
+credits="HELL Lvxic for this Mod" #optional
+
+[[mods]] #mandatory
+
+modId="miteremake" #mandatory
+
+version="1.0" #mandatory
+
+displayName="MiteRemake" #mandatory
+
+description='''
+
+The Remake Version of Mite
+
+'''
