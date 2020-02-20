@@ -1,0 +1,16 @@
+{
+    "item.miteremake.banana" : "Banana",
+    "item.miteremake.blueberries" : "BlueBerries",
+    "item.miteremake.cheese" : "Cheese",
+    "item.miteremake.chocolate" : "Chocolate",
+    "item.miteremake.dough" : "Dough",
+    "item.miteremake.flour" : "Flour",
+    "item.miteremake.lemon" : "Lemon",
+    "item.miteremake.orange" : "Orange",
+    "item.miteremake.worm_cooked" : "Cooked Worm",
+    "item.miteremake.worm_raw" : "Raw Worm",
+
+    "block.miteremake.onion" : "Onion",
+
+    "itemGroup.mineing": "Mineing Products"
+}

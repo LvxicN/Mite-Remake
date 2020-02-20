@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "miteremake:block/crops/onions/0"
+    }
+}
